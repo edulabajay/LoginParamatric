@@ -1,0 +1,21 @@
+package base;
+
+import org.openqa.selenium.WebDriver;
+
+public class Basepage {
+	public static WebDriver driver;
+	public static properties prop;
+	
+	public Basepage() {
+		
+		try {
+			
+			prop = new properties();
+		}
+	}
+	
+
+
+
+
+}

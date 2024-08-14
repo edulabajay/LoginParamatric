@@ -1,0 +1,8 @@
+url = https://ui.cogmento.com/
+
+#We can not Store our Test Data in properties file because properties file are only for Global Environment 
+#Here in properties file we use only for Global Environment Variable
+username = ajaybalajikadam69@gmail.com
+password = edulab321
+
+browser = chrome
