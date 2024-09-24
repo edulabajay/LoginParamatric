@@ -1,9 +1,0 @@
-url = https://devsolauth.studentscenter.in/realms/solapur/protocol/openid-connect/auth?client_id=solapur-FE&redirect_uri=https%3A%2F%2Fdevpahsu.admissiondesk.org%2Fhome&state=40ff8e69-db89-4786-8c0b-11a697a420a9&response_mode=fragment&response_type=code&scope=openid&nonce=0d35c9b4-12ca-403d-87a7-be5f850c0626
-
-#We can not Store our Test Data in properties file because properties file are only for Global Environment 
-#Here in properties file we use only for Global Environment Variable
-
-username = ajaybalajikadam69@gmail.com
-password = edulab321
-
-browser = chrome
